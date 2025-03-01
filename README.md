@@ -14,4 +14,3 @@ Welcome to **WordGuess**! 🕵️‍♂️ This is a fun command-line game where
    ```bash
    git clone https://github.com/your-username/wordguess.git
    cd wordguess
->>>>>>> faf7f57 (Word Guess Game Files Updated)
