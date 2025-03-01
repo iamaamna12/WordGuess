@@ -15,3 +15,10 @@ Now with a **Hangman Stick Figure** that updates every wrong guess! 🚀
    ```bash
    git clone https://github.com/iamaamna12/WordGuess.git
    cd WordGuess
+
+## 📸 Screenshots
+<img width="419" alt="Screenshot 2025-03-01 at 7 42 01 PM" src="https://github.com/user-attachments/assets/39351e6e-7107-4de7-90f7-e9b0ce9b2a4b" />
+<img width="324" alt="Screenshot 2025-03-01 at 7 42 17 PM" src="https://github.com/user-attachments/assets/3352aefb-13ae-42b6-8fc5-dc182d4e90a5" />
+<img width="401" alt="Screenshot 2025-03-01 at 7 43 03 PM" src="https://github.com/user-attachments/assets/f6d06be7-a3e8-4965-964f-b7abff5d3199" />
+
+
