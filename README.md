@@ -13,5 +13,5 @@ Now with a **Hangman Stick Figure** that updates every wrong guess! 🚀
 ## 🖥️ Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/wordguess.git
+   git clone https://github.com/iamaamna12/WordGuess.git
    cd wordguess
